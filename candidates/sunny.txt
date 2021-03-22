@@ -1,0 +1,2 @@
+mercy,2
+city,1

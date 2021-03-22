@@ -1,0 +1,3 @@
+joseph,2
+darrius,1
+positions,2

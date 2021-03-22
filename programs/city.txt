@@ -1,0 +1,6 @@
+positions,2
+sunny,3
+joseph,5
+latha,4
+darrius,1
+arthur,2

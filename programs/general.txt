@@ -1,0 +1,5 @@
+latha,4
+darrius,1
+positions,2
+arthur,2
+joseph,3
